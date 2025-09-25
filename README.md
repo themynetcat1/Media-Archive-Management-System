@@ -5,6 +5,8 @@ media streams available in a given country, and identify media items that are
 streaming on all five platforms.
 
 System uses 2 different hash functions:
+
+
 1.Simple Summation Function (SSF)
 
 
@@ -20,9 +22,11 @@ System uses 2 different hash functions:
 System uses 2 different Collision Handling Functions:
 
 1.Linear Probing (LP)
+ 
  Linear probing handles collisions by placing the colliding item in the next (circularly) available table cell.
 
 2.Double Hashing (DH)
+ 
  Double hashing uses a secondary hash function d(k) and handles collisions by placing an item in the first available cell of the series.
 
  
