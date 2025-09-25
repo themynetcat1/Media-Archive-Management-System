@@ -37,7 +37,7 @@ System uses 2 different Collision Handling Functions:
 
  The system was used to monitor performance across a set of inputs provided in a .csv file, which included different load factors, hash functions, and collision handling methods.
  
- Here is the results:
+ Here are the results:
  
  
  <img width="543" height="234" alt="image" src="https://github.com/user-attachments/assets/5df2255d-6b25-4884-8eeb-fd15a62f72ad" />
